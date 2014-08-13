@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Process Killer">
+</Property><Property Name="Solution File" Value="C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Process Killer.sln">
+</Property><Property Name="User Options File" Value="C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Process Killer.suo">
+</Property><Property Name="Date" Value="01 October 2007">
+</Property><Property Name="Time" Value="10:33 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Process Killer.sln" Description="File successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\Process Killer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Process Killer.suo" Description="File successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\Process Killer.suo">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="Process Killer.vbproj" Description="Project file successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\Process Killer.vbproj">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="Process Killer.vbproj.user" Description="Project user file successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\Process Killer.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="Display_Message.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\Display_Message.vb">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="Main_Screen.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\Main_Screen.vb">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="Splash_Screen.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\Splash_Screen.vb">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="Startup_Module.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\Startup_Module.vb">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="Worker.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\Worker.vb">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="app.config" Description="File successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="Application_Icon.ico" Description="File successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\Application_Icon.ico">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="Display_Message.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\Display_Message.resx">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="Main_Screen.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\Main_Screen.resx">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="Splash_Screen.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\Splash_Screen.resx">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="Worker.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Process Killer - 20 December 2005\Source Code\Process Killer\Backup\Worker.resx">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="Process Killer.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Process Killer" Source="Process Killer.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Process Killer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Process Killer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Process Killer" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="Process Killer" Source="app.config" Description="Converted">
+</Event></UpgradeLog>
